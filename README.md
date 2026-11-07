@@ -2,10 +2,10 @@
 
   # ¡Hola, soy Allan Pérez Robles! 👋
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Data+Analyst+%26+Automation+Developer;Python+%E2%80%A2+SQL+%E2%80%A2+Web+Scraping+%E2%80%A2+ETL;Estudiante+Data+Science+%40+Tokyo+Univ+GCI;Optimizando+procesos+con+IA+y+soluciones+escalables)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=680&lines=AI+Systems+%26+Automation+Engineer;Multi-Agent+Architectures+%E2%80%A2+Agent+Pools+%E2%80%A2+Loops;SDD+%E2%80%A2+TDD+%E2%80%A2+ODD+%E2%80%A2+Dynamic+Skills;Data+Science+Student+%40+Tokyo+University+GCI;Pipelines+Escalables+%E2%80%A2+Python+%E2%80%A2+MCP+%E2%80%A2+SQL)](https://git.io/typing-svg)
 
   <p align="center">
-    <b>Transformando datos operativos complejos y flujos manuales en herramientas funcionales, rápidas y escalables.</b>
+    <b>Arquitectura de sistemas autónomos, orquestación multi-agente y desarrollo guiado por especificación y datos.</b>
   </p>
 
   <p align="center">
@@ -24,75 +24,69 @@
 
 ---
 
-### 💫 Sobre mí
+### 🧠 Ingeniería Agéntica & Enfoque
 
+- 🤖 **Arquitectura Multi-Agente & Agent Pools:** Diseño de topologías de agentes coordinados (orquestador-ejecutores), subagentes especializados efímeros, gestión de `agent pools` concurrentes y aislamiento de contexto para eliminar degradación de tokens.
+- 🔁 **Loops Autónomos & Feedback Adaptativo:** Implementación de bucles agénticos (`Thought → Action → Observation`), loops de auto-corrección de errores (*self-healing*), evaluación adversarial (*Judgment Day*) y síntesis multi-perspectiva.
+- 📐 **Metodologías Rigurosas:**
+  - **SDD (Spec-Driven Development):** Arquitectura y planificación estructurada por fases antes de tirar código (`explore → propose → spec → design → tasks → apply → verify → archive`).
+  - **TDD (Test-Driven Development):** Modo estricto de pruebas unitarias, de integración y E2E para blindar la lógica de negocio antes de la implementación.
+  - **ODD (Observation-Driven Development):** Toma de decisiones e iteración guiada por telemetría, inspección empírica de entornos y trazas de ejecución en tiempo real.
+- 🧩 **Skills Dinámicos & Protocolos Extensibles:** Desarrollo de skills LLM-first con resolución contextual dinámica y protocolos **MCP (Model Context Protocol)** con persistencia multi-sesión (Engram).
+- 🔬 **Modelos & Representaciones:** Integración y experimentación con modelos de frontera (LLMs, VLMs, arquitecturas predictivas y de embeddings tipo **JEV** / JEPA).
 - 🎓 **Formación:** Estudiante del **Data Science Program** en **Tokyo University GCI** | Formación previa en Ingeniería Electrónica (**Universidad Distrital**).
-- 📊 **Análisis de Datos & ETL:** Construcción de pipelines de extracción, limpieza, cruce y auditoría de datos operativos con **Python (Pandas, NumPy)** y **SQL (PostgreSQL)**.
-- ⚙️ **Automatización & Web Scraping:** Desarrollo de bots, scripts de recolección masiva y procesamiento en tiempo real con **Playwright, requests y APIs REST**.
-- 🤖 **IA & Ingeniería Agéntica:** Integración de modelos LLM, servidores **MCP (Model Context Protocol)** y flujos agénticos para multiplicar la productividad de ingeniería.
 - 📍 **Ubicación:** Bogotá, Colombia 🇨🇴
 
 ---
 
 ### 💻 Stack Tecnológico
 
-#### 📊 Data Science & Business Intelligence
+#### 🤖 Sistemas Agénticos & IA
+<p align="left">
+  <img src="https://img.shields.io/badge/Multi--Agent_Systems-8A2BE2?style=for-the-badge&logo=probot&logoColor=white" alt="Multi-Agent Systems" />
+  <img src="https://img.shields.io/badge/Agent_Pools-000000?style=for-the-badge&logo=openai&logoColor=white" alt="Agent Pools" />
+  <img src="https://img.shields.io/badge/Autonomous_Loops-38BDF8?style=for-the-badge&logo=recursecenter&logoColor=white" alt="Autonomous Loops" />
+  <img src="https://img.shields.io/badge/SDD_Framework-0052CC?style=for-the-badge&logo=gitbook&logoColor=white" alt="SDD" />
+  <img src="https://img.shields.io/badge/TDD_Testing-28A745?style=for-the-badge&logo=pytest&logoColor=white" alt="TDD" />
+  <img src="https://img.shields.io/badge/ODD_Telemetry-FF6F00?style=for-the-badge&logo=datadog&logoColor=white" alt="ODD" />
+  <img src="https://img.shields.io/badge/MCP_Protocol-10B981?style=for-the-badge&logo=anthropic&logoColor=white" alt="MCP" />
+  <img src="https://img.shields.io/badge/Dynamic_Skills-6366F1?style=for-the-badge&logo=githubactions&logoColor=white" alt="Dynamic Skills" />
+  <img src="https://img.shields.io/badge/JEV_Architecture-0F172A?style=for-the-badge&logo=deepnote&logoColor=white" alt="JEV" />
+  <img src="https://img.shields.io/badge/Claude_3.5-D97706?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
+  <img src="https://img.shields.io/badge/Gemini_Pro-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini" />
+</p>
+
+#### 📊 Data Science & Machine Learning
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI" />
   <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly" />
   <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy" />
 </p>
 
-#### ⚡ Backend, Bases de Datos & Cloud
-<p align="left">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-</p>
-
-#### ⚙️ Automatización, Testing & DevOps
+#### ⚙️ Automatización, Testing & Backend
 <p align="left">
   <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" />
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
-  <img src="https://img.shields.io/badge/Cypress-69D3A7?style=for-the-badge&logo=cypress&logoColor=black" alt="Cypress" />
-  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" alt="Vitest" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
 </p>
 
-#### 🌐 Lenguajes & Frontend
+#### 🌐 Desarrollo Web & Frontend (Core Stack)
 <p align="left">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-</p>
-
-#### 🔌 Hardware & Redes
-<p align="left">
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
-  <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white" alt="Raspberry Pi" />
-  <img src="https://img.shields.io/badge/Ubiquiti-0559C9?style=for-the-badge&logo=ubiquiti&logoColor=white" alt="Ubiquiti" />
 </p>
 
 ---
